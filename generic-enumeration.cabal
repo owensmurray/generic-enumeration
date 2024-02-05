@@ -1,6 +1,6 @@
 cabal-version:       3.0
 name:                generic-enumeration
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Generically derived enumerations.
 description:         This package provides a way to generically obtain
                      every possible value of a type, provided that the
