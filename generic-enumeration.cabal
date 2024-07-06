@@ -19,7 +19,7 @@ extra-source-files:
 
 common dependencies
   build-depends:
-    , base >= 4.13.0.0 && < 4.20
+    , base >= 4.13.0.0 && < 4.21
 
 common warnings
   ghc-options:
