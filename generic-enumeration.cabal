@@ -1,6 +1,6 @@
 cabal-version:       3.0
 name:                generic-enumeration
-version:             0.1.0.4
+version:             0.1.0.5
 synopsis:            Generically derived enumerations.
 description:         This package provides a way to generically obtain
                      every possible value of a type, provided that the
@@ -10,7 +10,7 @@ license:             MIT
 license-file:        LICENSE
 author:              Rick Owens
 maintainer:          rick@owensmurray.com
-copyright:           2023 Rick Owens
+copyright:           2026 Rick Owens
 -- category:
 build-type:          Simple
 extra-source-files:
@@ -19,7 +19,7 @@ extra-source-files:
 
 common dependencies
   build-depends:
-    , base >= 4.13.0.0 && < 4.22
+    , base >= 4.13.0.0 && < 4.23
 
 common warnings
   ghc-options:
